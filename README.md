@@ -14,3 +14,5 @@ Proof Of Concept:  </br>
 
 The text from the note(L7bQT7hmWdz5AUzt3XNYE4WgxgJQj6) was encrypted with Base58. I used CyberChef to decrypt it and I found the flag: Flag{follow_the_light}. </br>
 
+Chellange #2 :.The Gatekeeper's Note  </br>
+
