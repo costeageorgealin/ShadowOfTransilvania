@@ -7,12 +7,12 @@ I documented my process and created a guide for the challenges I solved. </br>
 <img width="381" height="350" alt="1" src="https://github.com/user-attachments/assets/f753c8b2-6e5e-446e-bf67-0fdf2aa85b1e" /> </br>
 
 <table>
-  <colon>
+  <row>
     <img width="381" height="350" alt="1" src="https://github.com/user-attachments/assets/f753c8b2-6e5e-446e-bf67-0fdf2aa85b1e" /> </br>
-  </colon>
-    <colon>
+  </row>
+    <row>
       <img width="381" height="350" alt="1" src="https://github.com/user-attachments/assets/f753c8b2-6e5e-446e-bf67-0fdf2aa85b1e" /> </br>
-    </colon>
+    </row>
 </table>
 
 <h2> Chellange #1 : Lantern Log </h2> </br>
