@@ -7,7 +7,7 @@ I documented my process and created a guide for the challenges I solved.
  <h1 align="center"> Level 1 - The Perimeter </h1>
 
 <p align="center">
-  <img width="381" src="https://github.com/user-attachments/assets/f753c8b2-6e5e-446e-bf67-0fdf2aa85b1e" alt="Level 1" />
+  <img width="381" src="https://github.com/user-attachments/assets/f753c8b2-6e5e-446e-bf67-0fdf2aa85b1e" width="60%" alt="Level 1" />
 </p>
 
 ---
@@ -15,7 +15,7 @@ I documented my process and created a guide for the challenges I solved.
 <h2> Challenge #1: Lantern Log </h2>
 
 <p align="center">
-  <img width="377" src="https://github.com/user-attachments/assets/222b6941-ec7e-4ba9-a2c4-72222b065f64" alt="Challenge 1" />
+  <img width="377" src="https://github.com/user-attachments/assets/222b6941-ec7e-4ba9-a2c4-72222b065f64" width="60%" alt="Challenge 1" />
 </p>
 
 **Proof Of Concept:**
@@ -26,7 +26,7 @@ The text from the note (`L7bQT7hmWdz5AUzt3XNYE4WgxgJQj6`) was encrypted with Bas
 <h2> Challenge #2: The Gatekeeper's Note </h2>
 
 <p align="center">
-  <img width="380" src="https://github.com/user-attachments/assets/6f16dc91-2d32-40d0-b1ac-ce09feabf11c" alt="Challenge 2" />
+  <img width="380" src="https://github.com/user-attachments/assets/6f16dc91-2d32-40d0-b1ac-ce09feabf11c" width="60%" alt="Challenge 2" />
 </p>
 
 **Proof Of Concept:**
@@ -37,7 +37,7 @@ I used an OSINT tool named 4QRCode to scan the QR code and decoded it from Base6
 <h2> Challenge #3: Watchful Eye </h2>
 
 <p align="center">
-  <img width="382" src="https://github.com/user-attachments/assets/461e717f-f12b-4a6f-b8a9-a6f564001ae0" alt="Challenge 3" />
+  <img width="382" src="https://github.com/user-attachments/assets/461e717f-f12b-4a6f-b8a9-a6f564001ae0" width="60%" alt="Challenge 3" />
 </p>
 
 **Proof Of Concept:**
@@ -48,7 +48,7 @@ The text in the image was upside down. After rotating it, the result was: `FLAG{
 <h2> Challenge #4: Broken Chains </h2>
 
 <p align="center">
-  <img width="380" src="https://github.com/user-attachments/assets/13923ccf-3468-469e-b480-0945ac4731cc" alt="Challenge 4" />
+  <img width="380" src="https://github.com/user-attachments/assets/13923ccf-3468-469e-b480-0945ac4731cc" width="60%" alt="Challenge 4" />
 </p>
 
 **Proof Of Concept:**
@@ -59,7 +59,7 @@ The SHA-256 hash from this challenge belongs to a file named `Dracula.txt`. I ch
 <h1 align="center"> Level 2 - The Hall Of Deception </h1>
 
 <p align="center">
-  <img width="379" src="https://github.com/user-attachments/assets/acfd084f-ca77-47f6-870d-b6c0428dfd4d" alt="Level 2" />
+  <img width="379" src="https://github.com/user-attachments/assets/acfd084f-ca77-47f6-870d-b6c0428dfd4d" width="60%" alt="Level 2" />
 </p>
 
 ---
@@ -67,7 +67,7 @@ The SHA-256 hash from this challenge belongs to a file named `Dracula.txt`. I ch
 <h2> Challenge #5: The Cyphered Chronicle </h2>
 
 <p align="center">
-  <img width="387" src="https://github.com/user-attachments/assets/da198119-c8b5-48cd-980c-664b31bae7cc" alt="Challenge 5" />
+  <img width="387" src="https://github.com/user-attachments/assets/da198119-c8b5-48cd-980c-664b31bae7cc" width="60%" alt="Challenge 5" />
 </p>
 
 **Proof Of Concept:**
