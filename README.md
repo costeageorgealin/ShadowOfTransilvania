@@ -30,3 +30,26 @@ Proof Of Concept:  </br>
 
 The text in image was upside down. The result was FLAG{the_eye_sees_all} </br>
 
+<h2> Chellange #4 : Broken Chains </h2> </br>
+
+<img width="380" height="363" alt="6" src="https://github.com/user-attachments/assets/13923ccf-3468-469e-b480-0945ac4731cc" />
+
+Proof Of Concept:  </br>
+
+The SHA-256 hash from this challenge is from a file named Dracula.txt. I checked it on VirusTotal and discovered the flag: Flag{Dracula}.  </br>
+
+<h1> Level 2 - The Hall Of Deception </h1> </br>
+
+<br>  <img width="379" height="364" alt="7" src="https://github.com/user-attachments/assets/acfd084f-ca77-47f6-870d-b6c0428dfd4d" />  </br>
+
+<h2> Chellange #5 : The Cyphered Chronicle </h2> </br>
+
+<img width="387" height="527" alt="9" src="https://github.com/user-attachments/assets/da198119-c8b5-48cd-980c-664b31bae7cc" />
+
+Proof Of Concept:  </br>
+
+To decrypt 'WKH IODJ LV FWI{ERRN_RI_VHFUHWV}', I used a brute-force method for the Caesar cipher on dcode.fr and found: THE FLAG IS CTF{BOOK_OF_SECRETS}.
+
+<h2> Chellange #6 : The Watcher's Signature </h2> </br>
+
+
