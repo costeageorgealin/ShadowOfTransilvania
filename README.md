@@ -53,8 +53,8 @@ To decrypt 'WKH IODJ LV FWI{ERRN_RI_VHFUHWV}', I used a brute-force method for t
 <h2> Chellange #6 : Time of Attack </h2> </br>
 
 **<p align="center">
-  <img src="<img width="385" height="536" alt="12" src="https://github.com/user-attachments/assets/975abda1-be31-445c-98df-35a9e15b70d6" />" width="45%" />
-  <img src=" <img width="644" height="316" alt="13" src="https://github.com/user-attachments/assets/55924bc1-969b-4a9e-8e9b-825324d1f9c7" />" width="45%" />
+  <img src="https://github.com/user-attachments/assets/975abda1-be31-445c-98df-35a9e15b70d6" />" width="45%" />
+  <img src="https://github.com/user-attachments/assets/55924bc1-969b-4a9e-8e9b-825324d1f9c7" />" width="45%" />
 </p>**
 
 Proof Of Concept:  </br>
