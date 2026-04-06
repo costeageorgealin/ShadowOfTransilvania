@@ -100,7 +100,7 @@ Everybody should know that opening Telnet is very bad for any security system.
  <h1 align="center"> Level 3 - The Network Observatory </h1>
 
 <p align="center">
-  <img width="380" src="https://github.com/user-attachments/assets/0aeaacfd-30e5-4912-ae0a-f81a10a9bbba" width="60%" alt="Level 2" />
+  <img width="380" src="https://github.com/user-attachments/assets/0aeaacfd-30e5-4912-ae0a-f81a10a9bbba" width="60%" alt="Level 3" />
 </p>
 
 ---
@@ -154,8 +154,6 @@ I decoded the given Base64 message `QW8obWdIWk86O0VjYll0QVM+ZHFBNydGbEFSQk0jRGYw
 
 ---
 
- <h1 align="center"> Level 4 - Dracula's Command & Control </h1>
-
  <h2> Challenge #11: Secrets Revealed  </h2>
 
 <p align="center">
@@ -164,7 +162,13 @@ I decoded the given Base64 message `QW8obWdIWk86O0VjYll0QVM+ZHFBNydGbEFSQk0jRGYw
 
 **Proof Of Concept:**
 
+ <h1 align="center"> Level 4 - Dracula's Command & Control </h1>
 
+ <p align="center">
+  <img width="380" src="https://github.com/user-attachments/assets/add47b3a-99eb-4db4-bc50-0a7a72724162" width="60%" alt="Level 4" />
+</p>
+
+---
 
 ---
 
