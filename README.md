@@ -99,6 +99,13 @@ Everybody should know that opening Telnet is very bad for any security system.
 
  <h1 align="center"> Level 3 - The Network Observatory </h1>
 
+<p align="center">
+  <img width="380" src="https://github.com/user-attachments/assets/0aeaacfd-30e5-4912-ae0a-f81a10a9bbba" width="60%" alt="Level 2" />
+</p>
+
+---
+
+
 <h2> Challenge #8: DNS Exfiltration Log </h2>
 
 <p align="center">
@@ -143,6 +150,21 @@ I used a tool called MD5 Reverse to crack the hash `1c020611e3b753925ffc8af8745c
 
 **Proof Of Concept:**
 
-I decoded the given Base64 message `QW8obWdIWk86O0VjYll0QVM+ZHFBNydGbEFSQk0jRGYwLTc=` and got the following result: Ao(mgHZO:;EcbYtAS>dqA7'FlARBM#Df0-7. After that, I decoded it again using Base85, which meant it was a double-encoded message. The flag was: flag{start_behind_the_stone}.
+I decoded the given Base64 message `QW8obWdIWk86O0VjYll0QVM+ZHFBNydGbEFSQk0jRGYwLTc=` and got the following result: `Ao(mgHZO:;EcbYtAS>dqA7'FlARBM#Df0-7`. After that, I decoded it again using Base85, which meant it was a double-encoded message. The flag was: flag{start_behind_the_stone}.
 
 ---
+
+ <h1 align="center"> Level 4 - Dracula's Command & Control </h1>
+
+ <h2> Challenge #11: Secrets Revealed  </h2>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/eaec9abb-efd8-4df6-ba8d-94986d4943ee" width="60%" alt="Challenge 11" />
+</p>
+
+**Proof Of Concept:**
+
+
+
+---
+
