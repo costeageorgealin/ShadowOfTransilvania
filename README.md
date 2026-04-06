@@ -107,7 +107,7 @@ Everybody should know that opening Telnet is very bad for any security system.
 
 **Proof Of Concept:**
 
-I noticed a pattern in the DNS queries. The subdomains contained Base64 encoded strings. After extracting and joining the segments (ZmxhZ3tkbnNfZXhmaWxfZm91bmR9), I decoded the full string from Base64 and found the flag: flag{dns_exfil_found}.
+I noticed a pattern in the DNS queries. The subdomains contained Base64 encoded strings. After extracting and joining the segments `ZmxhZ3tkbnNfZXhmaWxfZm91bmR9`, I decoded the full string from Base64 and found the flag: flag{dns_exfil_found}.
 
 ---
 
@@ -123,5 +123,26 @@ The QR code contained the following message: icai{vplorsq_uyd_ycaf}. This was en
 
 ---
 
+<h2> Challenge #10: Melted Password Policy  </h2>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1f037c4e-ce5f-4792-ae52-d64b38634712" width="60%" alt="Challenge 10" />
+</p>
 
+**Proof Of Concept:**
+
+I used a tool called MD5 Reverse to crack the hash `1c020611e3b753925ffc8af8745c0556`. I found the word 'vampire', so the flag was: vampire.
+
+---
+
+<h2> Challenge #11: Secrets Revealed  </h2>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/eaec9abb-efd8-4df6-ba8d-94986d4943ee" width="60%" alt="Challenge 11" />
+</p>
+
+**Proof Of Concept:**
+
+I decoded the given Base64 message `QW8obWdIWk86O0VjYll0QVM+ZHFBNydGbEFSQk0jRGYwLTc=` and got the following result: Ao(mgHZO:;EcbYtAS>dqA7'FlARBM#Df0-7. After that, I decoded it again using Base85, which meant it was a double-encoded message. The flag was: flag{start_behind_the_stone}.
+
+---
