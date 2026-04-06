@@ -83,3 +83,30 @@ To decrypt `WKH IODJ LV FWI{ERRN_RI_VHFUHWV}`, I used a brute-force method for t
 
 **Proof Of Concept:**
 In the authentication logs, I identified multiple failed password attempts from IP `10.10.14.8`. The brute-force attack was successful at the exact timestamp: `2025-03-14 19:41:27`.
+
+---
+
+<h2> Challenge #7: Lights on the Network </h2>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a1ab2883-021e-4ef4-bf37-2dca00025a49" width="60%" alt="Challenge 7" />
+</p>
+
+**Proof Of Concept:**
+Everybody should know that opening Telnet is very bad for any security system.
+
+---
+
+ <h1 align="center"> Level 3 - The Network Observatory </h1>
+
+<h2> Challenge #8: DNS Exfiltration Log </h2>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3106cb6b-0644-4fca-ba08-d400ba93a3eb" width="60%" alt="Challenge 8" />
+</p>
+
+**Proof Of Concept:**
+
+I noticed a pattern in the DNS queries. The subdomains contained Base64 encoded strings. After extracting and joining the segments (ZmxhZ3tkbnNfZXhmaWxfZm91bmR9), I decoded the full string from Base64 and found the flag: flag{dns_exfil_found}.
+
+
