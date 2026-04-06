@@ -154,8 +154,6 @@ I decoded the given Base64 message `QW8obWdIWk86O0VjYll0QVM+ZHFBNydGbEFSQk0jRGYw
 
 ---
 
-**Proof Of Concept:**
-
  <h1 align="center"> Level 4 - Dracula's Command & Control </h1>
 
  <p align="center">
@@ -164,5 +162,5 @@ I decoded the given Base64 message `QW8obWdIWk86O0VjYll0QVM+ZHFBNydGbEFSQk0jRGYw
 
 ---
 
----
+
 
