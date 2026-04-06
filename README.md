@@ -20,7 +20,7 @@ The text from the note(L7bQT7hmWdz5AUzt3XNYE4WgxgJQj6) was encrypted with Base58
 
 Proof Of Concept:  </br>
 
-I used an OSINT named 4QRCode to scan the QR and decoded brom base64. The result was FLAG(scan_the_gate)
+I used an OSINT named 4QRCode to scan the QR and decoded brom base64. The result was FLAG(scan_the_gate) </br>
 
 <h2> Chellange #3 : Watchful Eye </h2> </br>
 
@@ -32,7 +32,7 @@ The text in image was upside down. The result was FLAG{the_eye_sees_all} </br>
 
 <h2> Chellange #4 : Broken Chains </h2> </br>
 
-<img width="380" height="363" alt="6" src="https://github.com/user-attachments/assets/13923ccf-3468-469e-b480-0945ac4731cc" />
+<img width="380" height="363" alt="6" src="https://github.com/user-attachments/assets/13923ccf-3468-469e-b480-0945ac4731cc" /> </br>
 
 Proof Of Concept:  </br>
 
@@ -44,12 +44,17 @@ The SHA-256 hash from this challenge is from a file named Dracula.txt. I checked
 
 <h2> Chellange #5 : The Cyphered Chronicle </h2> </br>
 
-<img width="387" height="527" alt="9" src="https://github.com/user-attachments/assets/da198119-c8b5-48cd-980c-664b31bae7cc" />
+<img width="387" height="527" alt="9" src="https://github.com/user-attachments/assets/da198119-c8b5-48cd-980c-664b31bae7cc" /> </br>
 
 Proof Of Concept:  </br>
 
 To decrypt 'WKH IODJ LV FWI{ERRN_RI_VHFUHWV}', I used a brute-force method for the Caesar cipher on dcode.fr and found: THE FLAG IS CTF{BOOK_OF_SECRETS}.
 
-<h2> Chellange #6 : The Watcher's Signature </h2> </br>
+<h2> Chellange #6 : Time of Attack </h2> </br>
+
+<img width="385" height="536" alt="12" src="https://github.com/user-attachments/assets/975abda1-be31-445c-98df-35a9e15b70d6" />  <img width="644" height="316" alt="13" src="https://github.com/user-attachments/assets/55924bc1-969b-4a9e-8e9b-825324d1f9c7" />
+
+Proof Of Concept:  </br>
+
 
 
