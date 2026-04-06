@@ -154,12 +154,6 @@ I decoded the given Base64 message `QW8obWdIWk86O0VjYll0QVM+ZHFBNydGbEFSQk0jRGYw
 
 ---
 
- <h2> Challenge #11: Secrets Revealed  </h2>
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/eaec9abb-efd8-4df6-ba8d-94986d4943ee" width="60%" alt="Challenge 11" />
-</p>
-
 **Proof Of Concept:**
 
  <h1 align="center"> Level 4 - Dracula's Command & Control </h1>
