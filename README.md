@@ -14,7 +14,7 @@ Proof Of Concept:  </br>
 
 The text from the note(L7bQT7hmWdz5AUzt3XNYE4WgxgJQj6) was encrypted with Base58. I used CyberChef to decrypt it and I found the flag: Flag{follow_the_light}. </br>
 
-Chellange #2 : The Gatekeeper's Note  </br>
+<h2> Chellange #2 : The Gatekeeper's Note </h2></br>
 
 <img width="380" height="542" alt="4" src="https://github.com/user-attachments/assets/6f16dc91-2d32-40d0-b1ac-ce09feabf11c" /> </br>
 
@@ -22,7 +22,7 @@ Proof Of Concept:  </br>
 
 I used an OSINT named 4QRCode to scan the QR and decoded brom base64. The result was FLAG(scan_the_gate)
 
-Chellange #3 : Watchful Eye  </br>
+<h2> Chellange #3 : Watchful Eye </h2> </br>
 
 <img width="382" height="557" alt="5" src="https://github.com/user-attachments/assets/461e717f-f12b-4a6f-b8a9-a6f564001ae0" /> </br>
 
