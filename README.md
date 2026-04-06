@@ -4,7 +4,7 @@ I documented my process and created a guide for the challenges I solved.
 
 ---
 
-<p align="center"> <h1> Level 1 - The Perimeter </h1> </p>
+ <h1 align="center"> Level 1 - The Perimeter </h1>
 
 <p align="center">
   <img width="381" src="https://github.com/user-attachments/assets/f753c8b2-6e5e-446e-bf67-0fdf2aa85b1e" alt="Level 1" />
