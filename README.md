@@ -2,7 +2,7 @@
 
 I documented my process and created a guide for the challenges I solved. </br>
 
-<h1> Level 1. The Perimeter </h1> </br>
+<h1> Level 1 - The Perimeter </h1> </br>
 
 <img width="381" height="350" alt="1" src="https://github.com/user-attachments/assets/f753c8b2-6e5e-446e-bf67-0fdf2aa85b1e" /> </br>
 
