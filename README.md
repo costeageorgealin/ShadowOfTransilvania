@@ -56,7 +56,7 @@ The SHA-256 hash from this challenge belongs to a file named `Dracula.txt`. I ch
 
 ---
 
-<h1> Level 2 - The Hall Of Deception </h1>
+<h1 align="center"> Level 2 - The Hall Of Deception </h1>
 
 <p align="center">
   <img width="379" src="https://github.com/user-attachments/assets/acfd084f-ca77-47f6-870d-b6c0428dfd4d" alt="Level 2" />
