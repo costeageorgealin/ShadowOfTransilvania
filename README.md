@@ -109,4 +109,19 @@ Everybody should know that opening Telnet is very bad for any security system.
 
 I noticed a pattern in the DNS queries. The subdomains contained Base64 encoded strings. After extracting and joining the segments (ZmxhZ3tkbnNfZXhmaWxfZm91bmR9), I decoded the full string from Base64 and found the flag: flag{dns_exfil_found}.
 
+---
+
+<h2> Challenge #9: The Coded Page </h2>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8ef591b5-93c1-4472-a279-0c63a8a1d81b" width="60%" alt="Challenge 9" />
+</p>
+
+**Proof Of Concept:**
+
+The QR code contained the following message: icai{vplorsq_uyd_ycaf}. This was encrypted using the Vigenère cipher. After decrypting it, I found the flag: flag{bellaso_and_vlad}.
+
+---
+
+
 
